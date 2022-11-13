@@ -1,4 +1,4 @@
-# Husky RFCs - [Active RFC List](https://rfcbot.rs/)
+# Husky RFCs
 
 [HuskyRFCs]: #husky-rfcs
 
@@ -10,5 +10,5 @@ Many changes, including bug fixes and documentation improvements can be
 implemented and reviewed via the normal GitHub pull request workflow.
 
 Some changes though are "substantial", and we ask that these be put through a
-bit of a design process and produce a consensus among the Rust community and
+bit of a design process and produce a consensus among the Husky community and
 the [sub-team]s.
